@@ -1,0 +1,20 @@
+{
+  "name": "learning-functional-programming-with-javascript-es6---coderpad--4252164",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-functional": "^9.0.2",
+    "eslint-plugin-immutable": "^1.0.0",
+    "globals": "^16.3.0"
+  }
+}
